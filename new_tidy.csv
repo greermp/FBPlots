@@ -1,0 +1,2685 @@
+ID,age,gender,ethnicity,school,TIME,Duration (in seconds),lat,long,company,Metric,Score
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Facebook,Privacy,7
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Instagram,Privacy,7
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,WhatsApp,Privacy,5
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,WhatsApp,Recommends,7
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Facebook,Recommends,7
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Instagram,Regard,5.714285714
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Instagram,Recommends,5
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,Facebook,Regard,2.857142857
+1,20~29,Female,Asian/Pacific Islander,5,02:00,132,21.34300232,-157.934906,WhatsApp,Regard,2.857142857
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Instagram,Privacy,5
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Facebook,Privacy,2
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,WhatsApp,Privacy,0
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Instagram,Regard,5.714285714
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,WhatsApp,Regard,5.714285714
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,WhatsApp,Recommends,5
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Facebook,Recommends,5
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Facebook,Regard,4.285714286
+2,30~39,Male,white,8,04:00,228,40.44059753,-79.99590302,Instagram,Recommends,4
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Facebook,Privacy,5
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Instagram,Privacy,0
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,WhatsApp,Privacy,0
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Facebook,Regard,5.714285714
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Instagram,Regard,5.714285714
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,WhatsApp,Regard,5.714285714
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Instagram,Recommends,1
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,WhatsApp,Recommends,0
+3,30~39,Male,white,8,04:00,285,39.59750366,-84.15599823,Facebook,Recommends,0
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Facebook,Privacy,8
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,WhatsApp,Privacy,8
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Instagram,Privacy,7
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,WhatsApp,Regard,8.571428571
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Facebook,Recommends,8
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Facebook,Regard,7.142857143
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Instagram,Regard,7.142857143
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,Instagram,Recommends,7
+4,40~49,Male,white,8,04:00,251,37.75100708,-97.8219986,WhatsApp,Recommends,7
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Facebook,Regard,10
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Instagram,Regard,10
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Facebook,Privacy,8
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Instagram,Privacy,8
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,WhatsApp,Privacy,1
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,WhatsApp,Regard,7.142857143
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Instagram,Recommends,7
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,WhatsApp,Recommends,7
+5,20~29,Female,white,9,05:00,274,28.02879333,-82.76889801,Facebook,Recommends,1
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Facebook,Regard,10
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Instagram,Regard,10
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Instagram,Privacy,10
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Facebook,Privacy,6
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,WhatsApp,Privacy,0
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Instagram,Recommends,10
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,WhatsApp,Recommends,10
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,WhatsApp,Regard,1.428571429
+6,20~29,Female,white,8,05:00,303,40.4651947,-74.23069763,Facebook,Recommends,0
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Instagram,Regard,10
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Instagram,Privacy,8
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Facebook,Privacy,5
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,WhatsApp,Privacy,5
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,WhatsApp,Recommends,10
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Instagram,Recommends,9
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Facebook,Regard,8.571428571
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,Facebook,Recommends,5
+7,30~39,Male,white,5,05:00,311,34.0493927,-118.2640991,WhatsApp,Regard,1.428571429
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Facebook,Privacy,0
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Instagram,Privacy,0
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,WhatsApp,Privacy,0
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,WhatsApp,Regard,5.714285714
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Facebook,Regard,1.428571429
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Instagram,Regard,1.428571429
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Instagram,Recommends,0
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,WhatsApp,Recommends,0
+8,20~29,Male,white,5,05:00,304,41.36799622,-72.45639801,Facebook,Recommends,0
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Instagram,Privacy,2
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,WhatsApp,Privacy,2
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Facebook,Privacy,1
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Facebook,Regard,8.571428571
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Instagram,Regard,5.714285714
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Instagram,Recommends,5
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,WhatsApp,Regard,1.428571429
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,WhatsApp,Recommends,0
+9,30~39,Male,white,3,05:00,338,35.61889648,-120.7668991,Facebook,Recommends,0
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Instagram,Privacy,5
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,WhatsApp,Privacy,4
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Facebook,Privacy,2
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,WhatsApp,Recommends,8
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Instagram,Regard,7.142857143
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,WhatsApp,Regard,5.714285714
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Instagram,Recommends,5
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Facebook,Recommends,5
+10,20~29,Female,Hispanic/Latino,3,05:00,319,34.0144043,-117.2771988,Facebook,Regard,4.285714286
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Facebook,Privacy,8
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Instagram,Privacy,5
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,WhatsApp,Privacy,2
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Instagram,Recommends,9
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Facebook,Regard,8.571428571
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,WhatsApp,Regard,5.714285714
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,WhatsApp,Recommends,5
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Facebook,Recommends,5
+11,30~39,Male,white,5,05:00,301,32.84260559,-105.9890976,Instagram,Regard,4.285714286
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Facebook,Regard,10
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,WhatsApp,Regard,10
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Instagram,Privacy,9
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,WhatsApp,Privacy,8
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Facebook,Privacy,7
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,WhatsApp,Recommends,9
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Instagram,Recommends,8
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Facebook,Recommends,8
+12,20~29,Female,white,8,04:00,258,34.0493927,-118.2640991,Instagram,Regard,7.142857143
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,WhatsApp,Privacy,7
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Facebook,Privacy,6
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Instagram,Privacy,6
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Facebook,Regard,7.142857143
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Instagram,Regard,7.142857143
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,WhatsApp,Regard,7.142857143
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Instagram,Recommends,6
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,WhatsApp,Recommends,6
+13,40~49,Male,white,8,05:00,319,40.73170471,-73.9885025,Facebook,Recommends,6
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Instagram,Regard,10
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,WhatsApp,Recommends,10
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,WhatsApp,Privacy,3
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Instagram,Privacy,2
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Facebook,Privacy,1
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Instagram,Recommends,4
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Facebook,Regard,2.857142857
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,WhatsApp,Regard,2.857142857
+14,30~39,Female,white,8,06:00,388,38.11289978,-122.1331024,Facebook,Recommends,0
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Instagram,Recommends,10
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Facebook,Privacy,8
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Instagram,Privacy,5
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,WhatsApp,Privacy,5
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Facebook,Regard,8.571428571
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Instagram,Regard,5.714285714
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,WhatsApp,Regard,5.714285714
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,WhatsApp,Recommends,5
+15,40~49,Female,white,8,06:00,381,41.10339355,-104.905899,Facebook,Recommends,5
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,WhatsApp,Privacy,5
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Instagram,Privacy,1
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Facebook,Privacy,0
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,WhatsApp,Regard,5.714285714
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,WhatsApp,Recommends,5
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Facebook,Recommends,5
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Facebook,Regard,1.428571429
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Instagram,Regard,1.428571429
+16,30~39,Male,white,8,07:00,411,28.2118988,-80.75830078,Instagram,Recommends,1
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Instagram,Regard,10
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,WhatsApp,Recommends,10
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Instagram,Privacy,10
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Facebook,Privacy,1
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,WhatsApp,Privacy,0
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Instagram,Recommends,4
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Facebook,Regard,1.428571429
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,WhatsApp,Regard,1.428571429
+17,20~29,Male,Black/African American,4,07:00,403,40.0256958,-74.89160156,Facebook,Recommends,0
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Facebook,Privacy,7
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,WhatsApp,Privacy,7
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Instagram,Privacy,5
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Facebook,Regard,7.142857143
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Instagram,Regard,5.714285714
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,WhatsApp,Regard,5.714285714
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Instagram,Recommends,3
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,WhatsApp,Recommends,3
+18,30~39,Male,white,8,07:00,393,39.27839661,-76.55699921,Facebook,Recommends,1
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Facebook,Privacy,7
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Instagram,Privacy,6
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,WhatsApp,Privacy,6
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Instagram,Recommends,5
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Instagram,Regard,4.285714286
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,WhatsApp,Regard,4.285714286
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,WhatsApp,Recommends,4
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Facebook,Recommends,4
+19,20~29,Male,white,8,07:00,422,32.94900513,-96.43450165,Facebook,Regard,2.857142857
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Instagram,Regard,10
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,WhatsApp,Regard,10
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Facebook,Recommends,10
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,WhatsApp,Privacy,2
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Facebook,Privacy,1
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Instagram,Privacy,1
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,WhatsApp,Recommends,7
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Facebook,Regard,1.428571429
+20,30~39,Male,white,5,07:00,418,40.76179504,-73.32929993,Instagram,Recommends,0
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Facebook,Privacy,5
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Instagram,Privacy,5
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,WhatsApp,Privacy,4
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Facebook,Regard,7.142857143
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Instagram,Regard,7.142857143
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Instagram,Recommends,6
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,WhatsApp,Recommends,5
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,Facebook,Recommends,4
+21,50~59,Female,white,8,06:00,383,39.73510742,-75.66840363,WhatsApp,Regard,2.857142857
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Facebook,Regard,10
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Instagram,Regard,10
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Instagram,Recommends,10
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,WhatsApp,Recommends,10
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Instagram,Privacy,5
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Facebook,Privacy,4
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,WhatsApp,Privacy,0
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,WhatsApp,Regard,1.428571429
+22,30~39,Female,white,10,06:00,368,29.63130188,-82.58139801,Facebook,Recommends,0
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Facebook,Regard,10
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Instagram,Recommends,10
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,WhatsApp,Recommends,10
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Instagram,Privacy,5
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Facebook,Privacy,2
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,WhatsApp,Privacy,0
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Instagram,Regard,7.142857143
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,WhatsApp,Regard,1.428571429
+23,30~39,Male,white,8,07:00,431,30.79170227,-81.57309723,Facebook,Recommends,0
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,WhatsApp,Privacy,7
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Instagram,Privacy,6
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Facebook,Privacy,5
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Facebook,Regard,8.571428571
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Instagram,Regard,8.571428571
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,WhatsApp,Regard,8.571428571
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Facebook,Recommends,8
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,Instagram,Recommends,7
+24,40~49,Male,white,8,06:00,340,29.42410278,-98.49359894,WhatsApp,Recommends,7
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Instagram,Privacy,7
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,WhatsApp,Privacy,7
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Facebook,Privacy,6
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Facebook,Recommends,9
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Facebook,Regard,8.571428571
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,WhatsApp,Regard,8.571428571
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,WhatsApp,Recommends,8
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Instagram,Regard,7.142857143
+25,20~29,Male,white,8,06:00,369,-12.98330688,-38.51669312,Instagram,Recommends,6
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Facebook,Privacy,7
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Instagram,Privacy,6
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,WhatsApp,Privacy,4
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Facebook,Recommends,6
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Facebook,Regard,5.714285714
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Instagram,Recommends,5
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,Instagram,Regard,4.285714286
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,WhatsApp,Recommends,4
+26,30~39,Male,white,8,06:00,393,34.020401,-84.24449921,WhatsApp,Regard,2.857142857
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Facebook,Recommends,10
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Instagram,Regard,8.571428571
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,WhatsApp,Regard,8.571428571
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,WhatsApp,Privacy,10
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Facebook,Privacy,7
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Instagram,Privacy,7
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Facebook,Regard,7.142857143
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,WhatsApp,Recommends,7
+27,30~39,Male,Black/African American,8,06:00,411,40.72140503,-74.00520325,Instagram,Recommends,6
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Facebook,Privacy,5
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Instagram,Privacy,4
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,WhatsApp,Privacy,0
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Facebook,Regard,4.285714286
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Instagram,Regard,4.285714286
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Instagram,Recommends,2
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,WhatsApp,Regard,1.428571429
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,WhatsApp,Recommends,1
+28,20~29,Male,white,8,08:00,445,45.67990112,-89.34600067,Facebook,Recommends,0
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Facebook,Privacy,4
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Instagram,Privacy,4
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,WhatsApp,Privacy,3
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,WhatsApp,Regard,5.714285714
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Facebook,Recommends,5
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Facebook,Regard,4.285714286
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Instagram,Recommends,4
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,WhatsApp,Recommends,4
+29,20~29,Male,white,4,06:00,376,35.47799683,-120.4891052,Instagram,Regard,2.857142857
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Instagram,Regard,8.571428571
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Instagram,Privacy,10
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Facebook,Privacy,2
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,WhatsApp,Privacy,0
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,WhatsApp,Recommends,8
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Facebook,Regard,2.857142857
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,WhatsApp,Regard,1.428571429
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Instagram,Recommends,1
+30,20~29,Female,white,7,08:00,476,33.37759399,-112.3873978,Facebook,Recommends,0
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,WhatsApp,Recommends,9
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Facebook,Regard,8.571428571
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Instagram,Regard,8.571428571
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Instagram,Privacy,9
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Facebook,Privacy,6
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,WhatsApp,Privacy,4
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Instagram,Recommends,6
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,WhatsApp,Regard,4.285714286
+31,30~39,Female,Black/African American,8,07:00,435,34.07640076,-118.2626038,Facebook,Recommends,3
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,WhatsApp,Regard,10
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Instagram,Recommends,10
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,WhatsApp,Recommends,10
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Facebook,Recommends,10
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,WhatsApp,Privacy,10
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Instagram,Privacy,4
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Facebook,Privacy,1
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Facebook,Regard,7.142857143
+32,20~29,Male,Hispanic/Latino,8,08:00,482,33.43569946,-111.917099,Instagram,Regard,7.142857143
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Instagram,Regard,10
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,WhatsApp,Recommends,10
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,WhatsApp,Regard,8.571428571
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Instagram,Privacy,10
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,WhatsApp,Privacy,7
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Facebook,Privacy,3
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Facebook,Recommends,8
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Instagram,Recommends,2
+33,30~39,Female,Black/African American,8,07:00,454,45.02850342,-93.29889679,Facebook,Regard,1.428571429
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Instagram,Recommends,9
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Instagram,Regard,8.571428571
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Facebook,Privacy,6
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Instagram,Privacy,5
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,WhatsApp,Privacy,5
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,WhatsApp,Recommends,8
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Facebook,Regard,7.142857143
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,WhatsApp,Regard,5.714285714
+34,20~29,Female,white,8,07:00,434,36.10780334,-86.76899719,Facebook,Recommends,0
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,WhatsApp,Privacy,5
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Facebook,Privacy,1
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Instagram,Privacy,1
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Facebook,Recommends,5
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Instagram,Regard,2.857142857
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,WhatsApp,Regard,2.857142857
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Facebook,Regard,1.428571429
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,Instagram,Recommends,0
+35,30~39,Female,white,8,07:00,461,41.603302,-87.75469971,WhatsApp,Recommends,0
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Instagram,Recommends,9
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Facebook,Regard,8.571428571
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Instagram,Regard,8.571428571
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,WhatsApp,Privacy,6
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Facebook,Privacy,3
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Instagram,Privacy,3
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,WhatsApp,Recommends,8
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,Facebook,Recommends,8
+36,20~29,Male,Asian/Pacific Islander,5,06:00,401,29.55569458,-95.63349915,WhatsApp,Regard,7.142857143
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Instagram,Recommends,10
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Facebook,Regard,8.571428571
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Instagram,Privacy,8
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Facebook,Privacy,6
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,WhatsApp,Privacy,5
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Instagram,Regard,7.142857143
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,WhatsApp,Recommends,7
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,WhatsApp,Regard,5.714285714
+37,20~29,Female,white,4,07:00,468,36.09860229,-95.92880249,Facebook,Recommends,2
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Facebook,Regard,10
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Instagram,Recommends,10
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Facebook,Privacy,9
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Instagram,Privacy,1
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,WhatsApp,Privacy,1
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Instagram,Regard,1.428571429
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,WhatsApp,Regard,1.428571429
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,WhatsApp,Recommends,0
+38,30~39,Male,white,4,07:00,387,39.9315033,-91.38400269,Facebook,Recommends,0
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,WhatsApp,Privacy,6
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Facebook,Privacy,5
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Instagram,Privacy,3
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,WhatsApp,Regard,7.142857143
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Instagram,Regard,5.714285714
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Facebook,Regard,4.285714286
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Instagram,Recommends,4
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,Facebook,Recommends,4
+39,30~39,Male,white,11,09:00,522,10.31669617,-72.3167038,WhatsApp,Recommends,2
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Instagram,Privacy,5
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Facebook,Privacy,4
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,WhatsApp,Privacy,0
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Instagram,Regard,7.142857143
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,WhatsApp,Regard,5.714285714
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,WhatsApp,Recommends,5
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Facebook,Regard,1.428571429
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Instagram,Recommends,0
+40,30~39,Male,white,8,09:00,493,43.043396,-87.89450073,Facebook,Recommends,0
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Facebook,Regard,10
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Instagram,Recommends,10
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Facebook,Privacy,8
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Instagram,Privacy,7
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,WhatsApp,Privacy,0
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Instagram,Regard,4.285714286
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,WhatsApp,Recommends,4
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,WhatsApp,Regard,1.428571429
+41,20~29,Female,white,8,09:00,513,26.69630432,-81.94290161,Facebook,Recommends,1
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Facebook,Privacy,7
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Instagram,Privacy,6
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,WhatsApp,Privacy,1
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Facebook,Regard,7.142857143
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Instagram,Regard,7.142857143
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Instagram,Recommends,3
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,WhatsApp,Recommends,3
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,WhatsApp,Regard,2.857142857
+42,40~49,Female,white,9,09:00,513,39.0223999,-94.31569672,Facebook,Recommends,0
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Facebook,Privacy,4
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Instagram,Privacy,4
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,WhatsApp,Privacy,1
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Instagram,Regard,5.714285714
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,WhatsApp,Regard,5.714285714
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,WhatsApp,Recommends,5
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Facebook,Regard,4.285714286
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Instagram,Recommends,3
+43,30~39,Male,Asian/Pacific Islander,8,09:00,515,33.89990234,-117.4404984,Facebook,Recommends,0
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Instagram,Regard,8.571428571
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,WhatsApp,Recommends,8
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Facebook,Regard,7.142857143
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Instagram,Privacy,8
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,WhatsApp,Privacy,5
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Facebook,Privacy,3
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Instagram,Recommends,6
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,Facebook,Recommends,5
+44,30~39,Male,white,4,07:00,381,40.4066925,-80.1108017,WhatsApp,Regard,1.428571429
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Facebook,Regard,8.571428571
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Instagram,Recommends,8
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Facebook,Privacy,8
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Instagram,Privacy,2
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,WhatsApp,Privacy,0
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Instagram,Regard,1.428571429
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,WhatsApp,Regard,1.428571429
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,WhatsApp,Recommends,1
+45,50~59,Female,white,9,09:00,495,40.78849792,-84.03359985,Facebook,Recommends,1
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Instagram,Privacy,3
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Facebook,Privacy,1
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,WhatsApp,Privacy,0
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,WhatsApp,Recommends,6
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,WhatsApp,Regard,5.714285714
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Instagram,Regard,4.285714286
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Instagram,Recommends,3
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Facebook,Regard,2.857142857
+46,30~39,Male,white,8,09:00,518,39.31610107,-76.57520294,Facebook,Recommends,0
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Facebook,Regard,10
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Instagram,Recommends,10
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Facebook,Privacy,9
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Instagram,Privacy,5
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,WhatsApp,Privacy,5
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Facebook,Recommends,7
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,WhatsApp,Regard,5.714285714
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,WhatsApp,Recommends,5
+47,30~39,Female,white,9,08:00,474,36.09710693,-95.96269989,Instagram,Regard,4.285714286
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Instagram,Recommends,8
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Facebook,Regard,7.142857143
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Instagram,Privacy,5
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Facebook,Privacy,3
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,WhatsApp,Privacy,0
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Instagram,Regard,5.714285714
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,WhatsApp,Recommends,5
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,WhatsApp,Regard,1.428571429
+48,30~39,Female,white,4,09:00,542,30.50349426,-88.14320374,Facebook,Recommends,0
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Instagram,Privacy,6
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,WhatsApp,Privacy,5
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Facebook,Privacy,1
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Instagram,Recommends,7
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Facebook,Recommends,5
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Instagram,Regard,4.285714286
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,Facebook,Regard,2.857142857
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,WhatsApp,Regard,2.857142857
+49,30~39,Male,white,8,08:00,489,42.29240417,-85.69080353,WhatsApp,Recommends,2
+50,50~59,Female,white,8,08:00,518,0,0,Instagram,Privacy,5
+50,50~59,Female,white,8,08:00,518,0,0,WhatsApp,Privacy,5
+50,50~59,Female,white,8,08:00,518,0,0,Facebook,Privacy,0
+50,50~59,Female,white,8,08:00,518,0,0,Instagram,Recommends,3
+50,50~59,Female,white,8,08:00,518,0,0,Facebook,Regard,1.428571429
+50,50~59,Female,white,8,08:00,518,0,0,Instagram,Regard,1.428571429
+50,50~59,Female,white,8,08:00,518,0,0,WhatsApp,Regard,1.428571429
+50,50~59,Female,white,8,08:00,518,0,0,WhatsApp,Recommends,0
+50,50~59,Female,white,8,08:00,518,0,0,Facebook,Recommends,0
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Instagram,Recommends,10
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Facebook,Regard,7.142857143
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Instagram,Regard,7.142857143
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Facebook,Privacy,9
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,WhatsApp,Privacy,8
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Instagram,Privacy,5
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,WhatsApp,Recommends,7
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,WhatsApp,Regard,1.428571429
+51,40~49,Male,white,7,08:00,509,44.45239258,-73.18409729,Facebook,Recommends,0
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Facebook,Regard,7.142857143
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Instagram,Regard,7.142857143
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Instagram,Privacy,5
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Facebook,Privacy,3
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,WhatsApp,Privacy,0
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Instagram,Recommends,7
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,WhatsApp,Recommends,6
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,WhatsApp,Regard,1.428571429
+52,40~49,Female,white,8,08:00,522,42.52160645,-83.16329956,Facebook,Recommends,0
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Instagram,Regard,10
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,WhatsApp,Recommends,10
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Facebook,Recommends,9
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Facebook,Regard,8.571428571
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Instagram,Recommends,8
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,WhatsApp,Regard,7.142857143
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,WhatsApp,Privacy,10
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Facebook,Privacy,9
+53,20~29,Female,white,8,07:00,462,30.290802,-81.63300323,Instagram,Privacy,9
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Instagram,Recommends,10
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Facebook,Regard,8.571428571
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Instagram,Regard,8.571428571
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Facebook,Privacy,6
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Instagram,Privacy,4
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,WhatsApp,Privacy,1
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,WhatsApp,Recommends,6
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,Facebook,Recommends,5
+54,40~49,Female,white,9,09:00,569,34.2868042,-118.6139984,WhatsApp,Regard,1.428571429
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Facebook,Regard,8.571428571
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Instagram,Regard,8.571428571
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Instagram,Privacy,8
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,WhatsApp,Privacy,3
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Facebook,Privacy,2
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,WhatsApp,Recommends,7
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Instagram,Recommends,4
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,WhatsApp,Regard,2.857142857
+55,20~29,Female,Asian/Pacific Islander,5,08:00,532,33.74740601,-117.9938965,Facebook,Recommends,0
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Facebook,Regard,7.142857143
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Facebook,Privacy,4
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Instagram,Privacy,0
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,WhatsApp,Privacy,0
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Instagram,Recommends,4
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Instagram,Regard,1.428571429
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,WhatsApp,Regard,1.428571429
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,WhatsApp,Recommends,0
+56,60+,Male,white,5,10:00,548,42.20930481,-70.93260193,Facebook,Recommends,0
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Instagram,Regard,7.142857143
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Facebook,Privacy,6
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Instagram,Privacy,6
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,WhatsApp,Privacy,2
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,WhatsApp,Recommends,7
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Facebook,Regard,5.714285714
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,WhatsApp,Regard,5.714285714
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Instagram,Recommends,5
+57,20~29,Male,white,5,06:00,324,30.09829712,-95.35700226,Facebook,Recommends,0
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Instagram,Recommends,10
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Facebook,Regard,7.142857143
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,WhatsApp,Regard,7.142857143
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Facebook,Privacy,5
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,WhatsApp,Privacy,5
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Instagram,Privacy,1
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Facebook,Recommends,6
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,WhatsApp,Recommends,5
+58,30~39,Male,white,4,09:00,545,28.15109253,-82.46150208,Instagram,Regard,4.285714286
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,WhatsApp,Recommends,8
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Instagram,Regard,7.142857143
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Instagram,Privacy,6
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,WhatsApp,Privacy,5
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Facebook,Privacy,1
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Facebook,Recommends,5
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Instagram,Recommends,4
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,Facebook,Regard,2.857142857
+59,30~39,Male,white,4,08:00,481,47.63549805,-122.3235016,WhatsApp,Regard,2.857142857
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Instagram,Regard,8.571428571
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,WhatsApp,Regard,8.571428571
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Facebook,Regard,7.142857143
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,WhatsApp,Privacy,8
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Facebook,Privacy,6
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Instagram,Privacy,6
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Instagram,Recommends,7
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,WhatsApp,Recommends,6
+60,30~39,Male,white,9,09:00,539,37.75100708,-97.8219986,Facebook,Recommends,6
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Facebook,Regard,10
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Instagram,Regard,8.571428571
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,WhatsApp,Regard,8.571428571
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Instagram,Recommends,8
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,WhatsApp,Recommends,8
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Facebook,Recommends,8
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Instagram,Privacy,9
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,WhatsApp,Privacy,9
+61,30~39,Male,Black/African American,8,10:00,619,25.7631073,-80.19110107,Facebook,Privacy,8
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Instagram,Recommends,10
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,WhatsApp,Recommends,10
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Facebook,Regard,8.571428571
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Instagram,Privacy,5
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Facebook,Privacy,3
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,WhatsApp,Privacy,0
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Instagram,Regard,5.714285714
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,WhatsApp,Regard,1.428571429
+62,60+,Female,white,8,09:00,581,34.28529358,-92.14859772,Facebook,Recommends,0
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Instagram,Recommends,8
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,WhatsApp,Privacy,6
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Facebook,Privacy,1
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Instagram,Privacy,1
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Facebook,Regard,4.285714286
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,WhatsApp,Recommends,2
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Instagram,Regard,1.428571429
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,WhatsApp,Regard,1.428571429
+63,20~29,Male,white,9,09:00,560,40.55990601,-115.6155014,Facebook,Recommends,1
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Facebook,Regard,8.571428571
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,WhatsApp,Privacy,8
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Facebook,Privacy,5
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Instagram,Privacy,0
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Instagram,Recommends,7
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Instagram,Regard,5.714285714
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,WhatsApp,Regard,5.714285714
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,Facebook,Recommends,5
+64,60+,Female,white,7,09:00,551,45.52879333,-122.3590012,WhatsApp,Recommends,0
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Facebook,Regard,8.571428571
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,WhatsApp,Regard,7.142857143
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Instagram,Privacy,5
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Facebook,Privacy,3
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,WhatsApp,Privacy,3
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Instagram,Recommends,6
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,WhatsApp,Recommends,6
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Facebook,Recommends,6
+65,30~39,Male,Asian/Pacific Islander,8,07:00,441,40.28300476,-74.62169647,Instagram,Regard,5.714285714
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Instagram,Regard,10
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,WhatsApp,Recommends,10
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,WhatsApp,Privacy,10
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Facebook,Privacy,9
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Instagram,Privacy,8
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Facebook,Recommends,6
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Instagram,Recommends,3
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,WhatsApp,Regard,2.857142857
+66,30~39,Male,white,7,10:00,606,43.89880371,-69.97250366,Facebook,Regard,1.428571429
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Facebook,Regard,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Instagram,Regard,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Instagram,Recommends,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,WhatsApp,Recommends,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Facebook,Privacy,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Instagram,Privacy,10
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,WhatsApp,Privacy,0
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,WhatsApp,Regard,1.428571429
+67,30~39,Male,Black/African American,8,08:00,479,28.53109741,-80.85230255,Facebook,Recommends,0
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Facebook,Regard,10
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Instagram,Regard,10
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Instagram,Recommends,9
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Facebook,Privacy,9
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,WhatsApp,Recommends,7
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Instagram,Privacy,9
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,WhatsApp,Privacy,0
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,WhatsApp,Regard,1.428571429
+68,30~39,Female,white,5,11:00,612,42.33180237,-83.3710022,Facebook,Recommends,0
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Facebook,Regard,10
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Instagram,Regard,10
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,WhatsApp,Regard,10
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Facebook,Recommends,10
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Instagram,Recommends,9
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,WhatsApp,Recommends,9
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,WhatsApp,Privacy,10
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Instagram,Privacy,8
+69,30~39,Female,white,11,10:00,575,10.31669617,-72.3167038,Facebook,Privacy,4
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Instagram,Regard,8.571428571
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Instagram,Privacy,3
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Facebook,Privacy,0
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,WhatsApp,Privacy,0
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,WhatsApp,Recommends,6
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Facebook,Regard,1.428571429
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,WhatsApp,Regard,1.428571429
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Instagram,Recommends,0
+70,40~49,Male,white,8,11:00,609,40.76179504,-73.32929993,Facebook,Recommends,0
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Instagram,Regard,10
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,WhatsApp,Regard,10
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Instagram,Recommends,10
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,WhatsApp,Recommends,10
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Facebook,Recommends,10
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Facebook,Privacy,8
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,WhatsApp,Privacy,8
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Instagram,Privacy,7
+71,30~39,Female,white,8,08:00,465,40.79100037,-73.92559814,Facebook,Regard,5.714285714
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Facebook,Regard,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Instagram,Regard,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,WhatsApp,Regard,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Instagram,Recommends,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,WhatsApp,Recommends,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Facebook,Recommends,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Facebook,Privacy,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,Instagram,Privacy,10
+72,30~39,Female,Hispanic/Latino,9,11:00,637,25.70140076,-80.35820007,WhatsApp,Privacy,10
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,WhatsApp,Recommends,9
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Instagram,Regard,8.571428571
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Instagram,Privacy,5
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,WhatsApp,Privacy,1
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Facebook,Privacy,0
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,WhatsApp,Regard,2.857142857
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Facebook,Regard,1.428571429
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Instagram,Recommends,1
+73,30~39,Male,white,10,10:00,594,40.77619934,-73.95480347,Facebook,Recommends,1
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Facebook,Regard,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Instagram,Regard,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,WhatsApp,Regard,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Instagram,Recommends,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,WhatsApp,Recommends,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Facebook,Recommends,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Facebook,Privacy,10
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,WhatsApp,Privacy,9
+74,20~29,Male,white,4,09:00,513,41.77589417,-72.52149963,Instagram,Privacy,7
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Facebook,Privacy,4
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Instagram,Privacy,0
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,WhatsApp,Privacy,0
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,WhatsApp,Regard,5.714285714
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Instagram,Recommends,5
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,WhatsApp,Recommends,5
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Facebook,Regard,4.285714286
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Instagram,Regard,4.285714286
+75,50~59,Female,white,8,11:00,662,45.67410278,-122.4714966,Facebook,Recommends,0
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Facebook,Recommends,8
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Instagram,Regard,7.142857143
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,WhatsApp,Regard,7.142857143
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Instagram,Recommends,7
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,WhatsApp,Privacy,9
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Facebook,Privacy,6
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Instagram,Privacy,6
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,WhatsApp,Recommends,6
+76,30~39,Female,white,5,06:00,376,25.78059387,-80.18260193,Facebook,Regard,5.714285714
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Instagram,Privacy,3
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Facebook,Privacy,1
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,WhatsApp,Privacy,0
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Instagram,Regard,5.714285714
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,WhatsApp,Regard,5.714285714
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Instagram,Recommends,5
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,WhatsApp,Recommends,5
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Facebook,Recommends,5
+77,30~39,Male,white,8,10:00,614,33.50799561,-112.1253967,Facebook,Regard,4.285714286
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Instagram,Recommends,7
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,WhatsApp,Privacy,9
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Facebook,Privacy,0
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Instagram,Privacy,0
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Facebook,Regard,5.714285714
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Instagram,Regard,5.714285714
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,Facebook,Recommends,5
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,WhatsApp,Regard,4.285714286
+78,30~39,Male,white,10,10:00,614,29.7203064,-95.31390381,WhatsApp,Recommends,2
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Instagram,Privacy,2
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Facebook,Privacy,1
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,WhatsApp,Privacy,0
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Facebook,Regard,4.285714286
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Instagram,Regard,2.857142857
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Instagram,Recommends,2
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,WhatsApp,Regard,1.428571429
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,WhatsApp,Recommends,0
+79,30~39,Male,white,9,09:00,524,42.63389587,-71.29570007,Facebook,Recommends,0
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Facebook,Privacy,7
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Instagram,Privacy,0
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,WhatsApp,Privacy,0
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Instagram,Regard,5.714285714
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,WhatsApp,Regard,5.714285714
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,WhatsApp,Recommends,5
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Facebook,Recommends,5
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Facebook,Regard,2.857142857
+80,20~29,Male,white,8,08:00,519,34.62480164,-112.4219971,Instagram,Recommends,2
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,WhatsApp,Regard,10
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Instagram,Recommends,10
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Facebook,Recommends,10
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Facebook,Regard,8.571428571
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Instagram,Regard,7.142857143
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,WhatsApp,Recommends,7
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,WhatsApp,Privacy,10
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Facebook,Privacy,8
+81,20~29,Female,white,8,10:00,626,38.77009583,-77.63210297,Instagram,Privacy,7
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Instagram,Regard,7.142857143
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Instagram,Privacy,4
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Facebook,Privacy,0
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,WhatsApp,Privacy,0
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,WhatsApp,Recommends,6
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Facebook,Regard,1.428571429
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,WhatsApp,Regard,1.428571429
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Instagram,Recommends,0
+82,40~49,Female,white,8,11:00,694,41.49729919,-81.4713974,Facebook,Recommends,0
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,WhatsApp,Privacy,10
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Instagram,Privacy,2
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Facebook,Privacy,0
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,WhatsApp,Regard,5.714285714
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Facebook,Regard,2.857142857
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Instagram,Regard,2.857142857
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Instagram,Recommends,0
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,WhatsApp,Recommends,0
+83,40~49,Female,white,6,09:00,594,45.3217926,-122.5231018,Facebook,Recommends,0
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Facebook,Regard,10
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Instagram,Recommends,9
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Instagram,Regard,8.571428571
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,WhatsApp,Regard,8.571428571
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,WhatsApp,Recommends,8
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Facebook,Recommends,8
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,WhatsApp,Privacy,10
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Instagram,Privacy,9
+84,20~29,Male,white,8,11:00,630,29.73950195,-95.38790131,Facebook,Privacy,8
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,WhatsApp,Privacy,2
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Instagram,Privacy,1
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Facebook,Privacy,0
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,WhatsApp,Regard,2.857142857
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Facebook,Regard,1.428571429
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Instagram,Regard,1.428571429
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Instagram,Recommends,0
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,WhatsApp,Recommends,0
+85,30~39,Male,Hispanic/Latino,8,09:00,529,26.21589661,-98.32530212,Facebook,Recommends,0
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Facebook,Regard,7.142857143
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Instagram,Recommends,7
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Instagram,Privacy,5
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Facebook,Privacy,4
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,WhatsApp,Privacy,4
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,WhatsApp,Recommends,6
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Instagram,Regard,5.714285714
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,Facebook,Recommends,5
+86,50~59,Female,white,4,12:00,704,34.15390015,-117.9918976,WhatsApp,Regard,1.428571429
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Instagram,Regard,8.571428571
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,WhatsApp,Recommends,8
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Instagram,Privacy,8
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Facebook,Privacy,0
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,WhatsApp,Regard,5.714285714
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,WhatsApp,Privacy,0
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Facebook,Regard,2.857142857
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Instagram,Recommends,0
+87,20~29,Female,white,8,06:00,327,42.01060486,-87.66860199,Facebook,Recommends,0
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Instagram,Regard,10
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,WhatsApp,Recommends,9
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Facebook,Regard,8.571428571
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Instagram,Recommends,8
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Facebook,Privacy,8
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Instagram,Privacy,7
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,WhatsApp,Privacy,3
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,WhatsApp,Regard,1.428571429
+88,30~39,Male,white,8,05:00,287,37.27220154,-121.8435974,Facebook,Recommends,0
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Facebook,Regard,10
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Instagram,Recommends,10
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Instagram,Regard,5.714285714
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,WhatsApp,Regard,5.714285714
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Facebook,Privacy,5
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Instagram,Privacy,5
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,WhatsApp,Privacy,5
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,WhatsApp,Recommends,5
+89,20~29,Female,white,5,11:00,646,41.15319824,-85.48100281,Facebook,Recommends,5
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Instagram,Regard,10
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,WhatsApp,Recommends,10
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Instagram,Privacy,10
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Facebook,Privacy,1
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,WhatsApp,Privacy,1
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Facebook,Regard,1.428571429
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,WhatsApp,Regard,1.428571429
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Instagram,Recommends,0
+90,30~39,Female,Asian/Pacific Islander,7,08:00,472,26.36520386,127.758606,Facebook,Recommends,0
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Instagram,Regard,10
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Facebook,Regard,5.714285714
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Instagram,Privacy,7
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,WhatsApp,Privacy,6
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Facebook,Privacy,3
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Instagram,Recommends,5
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,WhatsApp,Recommends,5
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,WhatsApp,Regard,2.857142857
+91,30~39,Female,white,4,05:00,277,39.61720276,-75.86779785,Facebook,Recommends,0
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,WhatsApp,Recommends,9
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Instagram,Recommends,8
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Instagram,Privacy,5
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,WhatsApp,Privacy,5
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Facebook,Privacy,4
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Facebook,Recommends,5
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Facebook,Regard,4.285714286
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,Instagram,Regard,4.285714286
+92,20~29,Male,white,8,11:00,645,40.76269531,-73.3227005,WhatsApp,Regard,2.857142857
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Instagram,Regard,5.714285714
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Instagram,Privacy,8
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,WhatsApp,Privacy,4
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Facebook,Privacy,2
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Facebook,Regard,4.285714286
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,WhatsApp,Regard,4.285714286
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Instagram,Recommends,3
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,Facebook,Recommends,1
+93,40~49,Female,Native American/American Indian,5,12:00,753,40.86849976,-73.83940125,WhatsApp,Recommends,0
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Facebook,Recommends,9
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,WhatsApp,Regard,8.571428571
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Instagram,Recommends,6
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Instagram,Regard,5.714285714
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,WhatsApp,Privacy,9
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Instagram,Privacy,5
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Facebook,Privacy,3
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,Facebook,Regard,2.857142857
+94,50~59,Female,white,8,11:00,695,48.18530273,-121.6777954,WhatsApp,Recommends,1
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Instagram,Recommends,10
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Facebook,Regard,5.714285714
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Instagram,Regard,5.714285714
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Facebook,Privacy,6
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Instagram,Privacy,0
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,WhatsApp,Privacy,0
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,WhatsApp,Regard,1.428571429
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,WhatsApp,Recommends,0
+95,60+,Female,white,8,12:00,706,41.61230469,-86.13809967,Facebook,Recommends,0
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Facebook,Recommends,10
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Instagram,Regard,7.142857143
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,WhatsApp,Regard,7.142857143
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,WhatsApp,Recommends,7
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Instagram,Privacy,5
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,WhatsApp,Privacy,3
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Facebook,Privacy,2
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Instagram,Recommends,5
+96,30~39,Female,Black/African American,8,12:00,741,29.79629517,-95.3266983,Facebook,Regard,2.857142857
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Facebook,Regard,8.571428571
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Instagram,Recommends,8
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Instagram,Regard,5.714285714
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,WhatsApp,Regard,5.714285714
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,WhatsApp,Privacy,5
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Facebook,Privacy,4
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Instagram,Privacy,4
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,WhatsApp,Recommends,5
+97,20~29,Male,white,5,08:00,469,36.41540527,-83.70659637,Facebook,Recommends,5
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,WhatsApp,Privacy,5
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Instagram,Privacy,2
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Facebook,Privacy,0
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Instagram,Regard,2.857142857
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Facebook,Regard,1.428571429
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,WhatsApp,Regard,1.428571429
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Instagram,Recommends,0
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,WhatsApp,Recommends,0
+98,30~39,Male,white,8,09:00,552,36.63549805,-88.28299713,Facebook,Recommends,0
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Instagram,Regard,10
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Facebook,Recommends,10
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Instagram,Recommends,9
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Facebook,Regard,8.571428571
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,WhatsApp,Recommends,8
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,WhatsApp,Regard,7.142857143
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,WhatsApp,Privacy,7
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Instagram,Privacy,6
+99,30~39,Male,white,8,13:00,781,40.7644043,-74.18789673,Facebook,Privacy,5
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Instagram,Regard,7.142857143
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,WhatsApp,Recommends,6
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,WhatsApp,Regard,5.714285714
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Instagram,Privacy,4
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,WhatsApp,Privacy,3
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Facebook,Privacy,2
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Facebook,Regard,1.428571429
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Instagram,Recommends,0
+100,20~29,Female,Hispanic/Latino,7,10:00,624,36.16900635,-94.45639801,Facebook,Recommends,0
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Instagram,Regard,10
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,WhatsApp,Recommends,10
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Facebook,Regard,8.571428571
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,WhatsApp,Regard,7.142857143
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Instagram,Recommends,7
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Instagram,Privacy,8
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Facebook,Privacy,5
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,WhatsApp,Privacy,5
+101,30~39,Male,white,8,12:00,749,42.73350525,-87.87319946,Facebook,Recommends,5
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Facebook,Recommends,9
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,WhatsApp,Regard,8.571428571
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Instagram,Regard,7.142857143
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,WhatsApp,Recommends,7
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Instagram,Recommends,6
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,WhatsApp,Privacy,3
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Facebook,Privacy,1
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Instagram,Privacy,1
+102,20~29,Male,Black/African American,5,10:00,600,33.62219238,-84.52310181,Facebook,Regard,1.428571429
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Instagram,Recommends,9
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,WhatsApp,Recommends,9
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Facebook,Recommends,9
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Facebook,Regard,8.571428571
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Instagram,Regard,7.142857143
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,WhatsApp,Regard,7.142857143
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,WhatsApp,Privacy,8
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Instagram,Privacy,7
+103,40~49,Female,Black/African American,9,13:00,765,38.83779907,-77.00090027,Facebook,Privacy,6
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Instagram,Regard,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,WhatsApp,Regard,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,WhatsApp,Recommends,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Facebook,Recommends,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Facebook,Regard,8.571428571
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Instagram,Recommends,8
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Instagram,Privacy,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,WhatsApp,Privacy,10
+104,30~39,Male,white,9,10:00,610,40.72140503,-74.00520325,Facebook,Privacy,9
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Facebook,Regard,7.142857143
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Instagram,Recommends,7
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,WhatsApp,Recommends,7
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Facebook,Recommends,6
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,WhatsApp,Regard,5.714285714
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Instagram,Privacy,8
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,WhatsApp,Privacy,8
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Facebook,Privacy,5
+105,30~39,Male,white,8,14:00,819,38.77009583,-77.63210297,Instagram,Regard,2.857142857
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,WhatsApp,Privacy,7
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Instagram,Privacy,4
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Facebook,Privacy,2
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Facebook,Regard,2.857142857
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Instagram,Regard,2.857142857
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,WhatsApp,Regard,2.857142857
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Facebook,Recommends,1
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,Instagram,Recommends,0
+106,30~39,Male,white,5,09:00,573,43.87660217,-95.12770081,WhatsApp,Recommends,0
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,WhatsApp,Recommends,8
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Instagram,Regard,7.142857143
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,WhatsApp,Regard,5.714285714
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Instagram,Privacy,5
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,WhatsApp,Privacy,5
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Facebook,Privacy,2
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Facebook,Regard,4.285714286
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Instagram,Recommends,0
+107,30~39,Female,white,8,14:00,862,45.52340698,-122.6762009,Facebook,Recommends,0
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Instagram,Regard,5.714285714
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,WhatsApp,Regard,5.714285714
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Facebook,Privacy,5
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Instagram,Privacy,5
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,WhatsApp,Privacy,5
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Instagram,Recommends,5
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Facebook,Recommends,5
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,Facebook,Regard,4.285714286
+108,50~59,Male,white,9,10:00,619,29.86880493,-95.53800201,WhatsApp,Recommends,0
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,WhatsApp,Recommends,9
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Instagram,Regard,7.142857143
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Facebook,Regard,5.714285714
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Instagram,Privacy,9
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Facebook,Privacy,5
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,WhatsApp,Privacy,0
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Instagram,Recommends,5
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,WhatsApp,Regard,1.428571429
+109,30~39,Male,white,4,07:00,388,29.98219299,-95.17759705,Facebook,Recommends,0
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,WhatsApp,Recommends,10
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Instagram,Regard,8.571428571
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Instagram,Recommends,8
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Facebook,Regard,7.142857143
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,WhatsApp,Regard,5.714285714
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Facebook,Privacy,6
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,WhatsApp,Privacy,5
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Instagram,Privacy,4
+110,40~49,Female,Black/African American,8,13:00,786,43.06219482,-76.13790131,Facebook,Recommends,0
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Instagram,Regard,10
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Facebook,Recommends,6
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Facebook,Regard,5.714285714
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Facebook,Privacy,3
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Instagram,Privacy,3
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,WhatsApp,Privacy,3
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,WhatsApp,Regard,4.285714286
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,Instagram,Recommends,4
+111,20~29,Male,white,7,04:00,213,38.58309937,-121.4920959,WhatsApp,Recommends,3
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Instagram,Regard,8.571428571
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,WhatsApp,Recommends,8
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Instagram,Recommends,6
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Facebook,Regard,5.714285714
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,WhatsApp,Regard,5.714285714
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Instagram,Privacy,5
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,WhatsApp,Privacy,5
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Facebook,Privacy,1
+112,40~49,Male,white,8,08:00,479,35.0440979,-106.8904037,Facebook,Recommends,5
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,WhatsApp,Regard,5.714285714
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,WhatsApp,Privacy,7
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Facebook,Privacy,6
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Instagram,Privacy,6
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Facebook,Regard,2.857142857
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Instagram,Regard,2.857142857
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Instagram,Recommends,0
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,WhatsApp,Recommends,0
+113,30~39,Female,Asian/Pacific Islander,7,05:00,313,39.08979797,-77.06109619,Facebook,Recommends,0
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Facebook,Regard,7.142857143
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Instagram,Recommends,7
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Instagram,Regard,5.714285714
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,WhatsApp,Regard,5.714285714
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,WhatsApp,Privacy,6
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Facebook,Privacy,5
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Instagram,Privacy,4
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,WhatsApp,Recommends,4
+114,40~49,Female,white,8,15:00,888,34.040802,-84.16649628,Facebook,Recommends,3
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Facebook,Privacy,2
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Instagram,Privacy,1
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,WhatsApp,Privacy,1
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Instagram,Regard,4.285714286
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,WhatsApp,Regard,2.857142857
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Facebook,Regard,1.428571429
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Instagram,Recommends,0
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,WhatsApp,Recommends,0
+115,30~39,Male,white,7,12:00,716,35.68760681,-77.16609955,Facebook,Recommends,0
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Facebook,Regard,5.714285714
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Instagram,Regard,5.714285714
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,WhatsApp,Regard,5.714285714
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Facebook,Privacy,0
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Instagram,Privacy,0
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,WhatsApp,Privacy,0
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Instagram,Recommends,1
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,WhatsApp,Recommends,0
+116,50~59,Female,white,6,14:00,873,41.14819336,-81.47360229,Facebook,Recommends,0
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Facebook,Regard,8.571428571
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Instagram,Regard,8.571428571
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,WhatsApp,Regard,8.571428571
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,WhatsApp,Recommends,7
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Instagram,Privacy,9
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,WhatsApp,Privacy,7
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Facebook,Privacy,1
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Facebook,Recommends,5
+117,50~59,Male,white,8,10:00,619,19.3302002,100.2496948,Instagram,Recommends,1
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Instagram,Recommends,8
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Facebook,Regard,7.142857143
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Instagram,Regard,7.142857143
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,WhatsApp,Recommends,7
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,WhatsApp,Regard,5.714285714
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Instagram,Privacy,7
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,WhatsApp,Privacy,7
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Facebook,Privacy,6
+118,30~39,Male,Black/African American,4,13:00,786,36.1882019,-94.23729706,Facebook,Recommends,5
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Instagram,Regard,5.714285714
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,WhatsApp,Regard,5.714285714
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Instagram,Privacy,3
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Facebook,Privacy,2
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,WhatsApp,Privacy,0
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Facebook,Regard,4.285714286
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Instagram,Recommends,4
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,WhatsApp,Recommends,1
+119,50~59,Male,white,4,13:00,729,33.2507019,-86.9210968,Facebook,Recommends,0
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Instagram,Regard,7.142857143
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Instagram,Recommends,6
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,WhatsApp,Regard,5.714285714
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,WhatsApp,Privacy,5
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Instagram,Privacy,2
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Facebook,Privacy,0
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Facebook,Regard,2.857142857
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,WhatsApp,Recommends,1
+120,30~39,Female,white,9,15:00,895,35.07679749,-82.43609619,Facebook,Recommends,0
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Facebook,Recommends,9
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,WhatsApp,Regard,8.571428571
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Instagram,Recommends,8
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Facebook,Regard,5.714285714
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Facebook,Privacy,2
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Instagram,Privacy,2
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,WhatsApp,Privacy,2
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,Instagram,Regard,1.428571429
+121,30~39,Male,white,9,15:00,913,40.71279907,-73.29620361,WhatsApp,Recommends,1
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Instagram,Regard,10
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,WhatsApp,Regard,10
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Instagram,Recommends,9
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,WhatsApp,Recommends,9
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Facebook,Recommends,9
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Facebook,Regard,8.571428571
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Instagram,Privacy,10
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,Facebook,Privacy,9
+122,30~39,Male,Black/African American,9,06:00,353,40.7322998,-74.07540131,WhatsApp,Privacy,9
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Instagram,Recommends,8
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Facebook,Regard,5.714285714
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Instagram,Regard,5.714285714
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Facebook,Privacy,1
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Instagram,Privacy,1
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,WhatsApp,Privacy,0
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,WhatsApp,Recommends,5
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,WhatsApp,Regard,1.428571429
+123,50~59,Male,white,5,16:00,948,34.99650574,-82.3286972,Facebook,Recommends,0
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Instagram,Regard,10
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,WhatsApp,Recommends,10
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Facebook,Regard,7.142857143
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Instagram,Recommends,6
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,WhatsApp,Regard,5.714285714
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Instagram,Privacy,6
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Facebook,Privacy,5
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,WhatsApp,Privacy,5
+124,20~29,Male,Asian/Pacific Islander,8,15:00,867,40.89630127,-74.15129852,Facebook,Recommends,0
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Facebook,Regard,8.571428571
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Instagram,Regard,8.571428571
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Instagram,Recommends,8
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,WhatsApp,Recommends,7
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Instagram,Privacy,5
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Facebook,Privacy,3
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,WhatsApp,Privacy,2
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,WhatsApp,Regard,2.857142857
+125,20~29,Male,white,8,16:00,920,40.52999878,-74.22059631,Facebook,Recommends,1
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Instagram,Recommends,10
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Facebook,Regard,7.142857143
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,WhatsApp,Regard,5.714285714
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Facebook,Privacy,5
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Instagram,Privacy,0
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,WhatsApp,Privacy,0
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Instagram,Regard,1.428571429
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,WhatsApp,Recommends,0
+126,50~59,Female,Hispanic/Latino,5,16:00,994,28.0381012,-80.6115036,Facebook,Recommends,0
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,WhatsApp,Recommends,8
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Facebook,Regard,7.142857143
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Instagram,Regard,7.142857143
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Instagram,Recommends,7
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Instagram,Privacy,6
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Facebook,Privacy,1
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,WhatsApp,Privacy,0
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,WhatsApp,Regard,1.428571429
+127,30~39,Female,Black/African American,7,17:00,1013,41.56350708,-93.78420258,Facebook,Recommends,0
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Instagram,Recommends,10
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,WhatsApp,Recommends,10
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Facebook,Regard,8.571428571
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Instagram,Regard,7.142857143
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Instagram,Privacy,10
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Facebook,Privacy,5
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,WhatsApp,Privacy,0
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,WhatsApp,Regard,1.428571429
+128,30~39,Female,white,5,18:00,1067,27.51480103,-80.31089783,Facebook,Recommends,0
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Facebook,Regard,7.142857143
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Instagram,Regard,7.142857143
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Instagram,Recommends,6
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,WhatsApp,Regard,5.714285714
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Instagram,Privacy,5
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,WhatsApp,Privacy,5
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Facebook,Privacy,4
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,WhatsApp,Recommends,0
+129,20~29,Male,white,4,07:00,390,40.71499634,-111.8934021,Facebook,Recommends,0
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Facebook,Regard,8.571428571
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Instagram,Regard,7.142857143
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,WhatsApp,Recommends,6
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,WhatsApp,Regard,5.714285714
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Instagram,Privacy,7
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Facebook,Privacy,5
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,WhatsApp,Privacy,5
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Instagram,Recommends,5
+130,40~49,Female,white,8,05:00,283,35.17869568,-89.75650024,Facebook,Recommends,0
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Instagram,Regard,7.142857143
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,WhatsApp,Recommends,6
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,WhatsApp,Regard,5.714285714
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,WhatsApp,Privacy,5
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Facebook,Privacy,1
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Instagram,Privacy,1
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Instagram,Recommends,5
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Facebook,Recommends,5
+131,30~39,Male,white,5,18:00,1093,41.70910645,-87.75959778,Facebook,Regard,4.285714286
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Instagram,Recommends,8
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Facebook,Regard,7.142857143
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,WhatsApp,Recommends,6
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Instagram,Privacy,2
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Facebook,Privacy,1
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,WhatsApp,Privacy,0
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Instagram,Regard,2.857142857
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,WhatsApp,Regard,1.428571429
+132,30~39,Male,white,9,06:00,405,42.97419739,-78.84809875,Facebook,Recommends,0
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Instagram,Regard,10
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,WhatsApp,Regard,10
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,WhatsApp,Recommends,8
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Facebook,Recommends,8
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Instagram,Recommends,6
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Facebook,Regard,5.714285714
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Instagram,Privacy,8
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,WhatsApp,Privacy,8
+133,30~39,Male,white,9,08:00,446,34.19650269,-118.8188019,Facebook,Privacy,7
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Facebook,Regard,5.714285714
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Instagram,Regard,5.714285714
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,WhatsApp,Regard,5.714285714
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Instagram,Recommends,5
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,WhatsApp,Recommends,5
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Facebook,Recommends,5
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,WhatsApp,Privacy,5
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Facebook,Privacy,1
+134,30~39,Male,white,5,07:00,367,42.28900146,-83.36859894,Instagram,Privacy,1
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,WhatsApp,Recommends,6
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Facebook,Regard,5.714285714
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Instagram,Regard,5.714285714
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Instagram,Recommends,5
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Facebook,Recommends,5
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,WhatsApp,Privacy,5
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Instagram,Privacy,4
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,Facebook,Privacy,3
+135,20~29,Female,Black/African American,5,19:00,1093,34.13589478,-117.155304,WhatsApp,Regard,2.857142857
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,WhatsApp,Recommends,9
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Facebook,Regard,7.142857143
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Instagram,Regard,7.142857143
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,WhatsApp,Regard,7.142857143
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Instagram,Recommends,7
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Facebook,Recommends,7
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Facebook,Privacy,6
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,Instagram,Privacy,5
+136,20~29,Female,white,5,19:00,1141,40.09790039,-75.10780334,WhatsApp,Privacy,2
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Facebook,Regard,7.142857143
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Instagram,Recommends,5
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Facebook,Privacy,6
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Instagram,Privacy,5
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,WhatsApp,Privacy,0
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Instagram,Regard,1.428571429
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,WhatsApp,Regard,1.428571429
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,WhatsApp,Recommends,1
+137,20~29,Female,white,5,18:00,1069,36.26429749,-95.82769775,Facebook,Recommends,0
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Instagram,Recommends,7
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Facebook,Regard,5.714285714
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Facebook,Privacy,4
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Instagram,Privacy,4
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,WhatsApp,Privacy,3
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Instagram,Regard,2.857142857
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,WhatsApp,Regard,2.857142857
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,WhatsApp,Recommends,2
+138,20~29,Female,white,5,18:00,1107,40.10049438,-74.72029877,Facebook,Recommends,0
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Facebook,Regard,5.714285714
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Instagram,Regard,5.714285714
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Instagram,Recommends,5
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Facebook,Privacy,7
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Instagram,Privacy,6
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,WhatsApp,Privacy,5
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,WhatsApp,Recommends,3
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,WhatsApp,Regard,1.428571429
+139,30~39,Male,white,8,05:00,276,47.82090759,-122.3151016,Facebook,Recommends,0
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Instagram,Recommends,7
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Instagram,Regard,5.714285714
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,WhatsApp,Regard,5.714285714
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,WhatsApp,Recommends,5
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Facebook,Recommends,5
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Facebook,Regard,4.285714286
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Instagram,Privacy,5
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,Facebook,Privacy,3
+140,60+,Male,white,5,20:00,1182,42.69290161,-87.8042984,WhatsApp,Privacy,0
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,WhatsApp,Regard,8.571428571
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Facebook,Recommends,8
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Facebook,Regard,7.142857143
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Instagram,Recommends,7
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,WhatsApp,Recommends,6
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Instagram,Regard,5.714285714
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,WhatsApp,Privacy,9
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Facebook,Privacy,8
+141,20~29,Male,white,9,08:00,456,42.88639832,-78.87809753,Instagram,Privacy,5
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,WhatsApp,Recommends,6
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Instagram,Recommends,5
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Instagram,Regard,4.285714286
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,WhatsApp,Privacy,4
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Instagram,Privacy,3
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Facebook,Privacy,2
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Facebook,Regard,2.857142857
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,WhatsApp,Regard,1.428571429
+142,50~59,Male,white,8,07:00,426,40.71429443,-74.0059967,Facebook,Recommends,0
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Facebook,Recommends,9
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Instagram,Regard,8.571428571
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,WhatsApp,Recommends,8
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Facebook,Regard,7.142857143
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,WhatsApp,Regard,7.142857143
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Instagram,Recommends,7
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,WhatsApp,Privacy,9
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Instagram,Privacy,6
+143,30~39,Female,white,11,10:00,614,40.73080444,-73.99749756,Facebook,Privacy,4
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Instagram,Regard,10
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,WhatsApp,Recommends,9
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Facebook,Regard,8.571428571
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Instagram,Recommends,7
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Instagram,Privacy,9
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Facebook,Privacy,7
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,WhatsApp,Privacy,5
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,WhatsApp,Regard,1.428571429
+144,30~39,Male,Black/African American,8,11:00,642,35.186203,-80.74790192,Facebook,Recommends,0
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Facebook,Recommends,9
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,WhatsApp,Regard,8.571428571
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Instagram,Recommends,8
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Facebook,Regard,5.714285714
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,WhatsApp,Recommends,5
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Instagram,Regard,4.285714286
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,WhatsApp,Privacy,7
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Facebook,Privacy,5
+145,50~59,Male,white,9,21:00,1237,42.42810059,-71.05460358,Instagram,Privacy,5
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Facebook,Regard,10
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Instagram,Recommends,10
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Instagram,Regard,7.142857143
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,WhatsApp,Privacy,10
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Facebook,Privacy,8
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Instagram,Privacy,5
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,WhatsApp,Recommends,3
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,WhatsApp,Regard,1.428571429
+146,30~39,Female,white,4,12:00,730,27.94749451,-81.92040253,Facebook,Recommends,1
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Instagram,Regard,7.142857143
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,WhatsApp,Regard,7.142857143
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,WhatsApp,Recommends,6
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Instagram,Recommends,5
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Facebook,Recommends,5
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,WhatsApp,Privacy,7
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Facebook,Privacy,3
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Instagram,Privacy,3
+147,20~29,Male,Native American/American Indian,5,13:00,762,46.84880066,-92.20320129,Facebook,Regard,2.857142857
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,WhatsApp,Regard,7.142857143
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Facebook,Recommends,7
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Instagram,Regard,5.714285714
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,WhatsApp,Privacy,2
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Facebook,Privacy,0
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Instagram,Privacy,0
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Facebook,Regard,1.428571429
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,Instagram,Recommends,0
+148,40~49,Female,white,11,21:00,1247,30.37609863,-91.17829895,WhatsApp,Recommends,0
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Instagram,Regard,8.571428571
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,WhatsApp,Recommends,8
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Facebook,Regard,7.142857143
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,WhatsApp,Regard,7.142857143
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Instagram,Recommends,7
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Facebook,Recommends,7
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Instagram,Privacy,7
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,WhatsApp,Privacy,7
+149,20~29,Male,white,8,08:00,528,39.38699341,-74.62169647,Facebook,Privacy,6
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Facebook,Regard,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Instagram,Regard,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,WhatsApp,Regard,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Instagram,Recommends,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,WhatsApp,Recommends,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Facebook,Recommends,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Facebook,Privacy,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,Instagram,Privacy,10
+150,30~39,Male,white,9,08:00,426,40.72140503,-74.00520325,WhatsApp,Privacy,10
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Facebook,Regard,7.142857143
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,WhatsApp,Regard,7.142857143
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Instagram,Recommends,7
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,WhatsApp,Recommends,6
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Facebook,Recommends,6
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Instagram,Regard,4.285714286
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Instagram,Privacy,6
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,WhatsApp,Privacy,6
+151,20~29,Female,white,3,10:00,587,25.78059387,-80.18260193,Facebook,Privacy,5
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,WhatsApp,Recommends,6
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Instagram,Regard,5.714285714
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,WhatsApp,Regard,5.714285714
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Facebook,Regard,4.285714286
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,WhatsApp,Privacy,5
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Instagram,Privacy,2
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Facebook,Privacy,1
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Instagram,Recommends,3
+152,30~39,Male,white,7,13:00,826,43.53669739,-96.6984024,Facebook,Recommends,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Facebook,Privacy,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Instagram,Privacy,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,WhatsApp,Privacy,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,WhatsApp,Regard,2.857142857
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Facebook,Regard,1.428571429
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Instagram,Regard,1.428571429
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Instagram,Recommends,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,WhatsApp,Recommends,0
+153,30~39,Male,white,5,11:00,673,41.42790222,-71.53639984,Facebook,Recommends,0
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Facebook,Regard,7.142857143
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Instagram,Recommends,5
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Facebook,Recommends,5
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Facebook,Privacy,1
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Instagram,Privacy,0
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,WhatsApp,Privacy,0
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,Instagram,Regard,1.428571429
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,WhatsApp,Regard,1.428571429
+154,30~39,Male,white,7,10:00,634,33.57369995,-80.35610199,WhatsApp,Recommends,0
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Facebook,Regard,4.285714286
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Instagram,Regard,4.285714286
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,WhatsApp,Regard,4.285714286
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Instagram,Recommends,4
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,WhatsApp,Recommends,4
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Facebook,Recommends,4
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Facebook,Privacy,4
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,Instagram,Privacy,2
+155,20~29,Male,Hispanic/Latino,8,06:00,353,31.15029907,-85.41139984,WhatsApp,Privacy,1
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Facebook,Regard,8.571428571
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Instagram,Regard,8.571428571
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,WhatsApp,Regard,8.571428571
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Facebook,Recommends,5
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,WhatsApp,Recommends,4
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Instagram,Privacy,7
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,WhatsApp,Privacy,5
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Facebook,Privacy,3
+156,30~39,Male,Hispanic/Latino,5,13:00,816,25.73629761,-80.40440369,Instagram,Recommends,3
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Instagram,Regard,5.714285714
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Instagram,Recommends,5
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,WhatsApp,Recommends,5
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Facebook,Recommends,5
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,WhatsApp,Privacy,2
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Instagram,Privacy,1
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Facebook,Privacy,0
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,Facebook,Regard,2.857142857
+157,40~49,Female,white,8,07:00,421,39.07000732,-108.5376968,WhatsApp,Regard,1.428571429
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Facebook,Regard,10
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Instagram,Recommends,10
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,WhatsApp,Recommends,10
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Instagram,Regard,8.571428571
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,WhatsApp,Regard,5.714285714
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Facebook,Recommends,5
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Instagram,Privacy,7
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,Facebook,Privacy,6
+158,40~49,Female,white,5,14:00,827,42.0796051,-71.03820038,WhatsApp,Privacy,4
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Facebook,Regard,10
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Instagram,Regard,5.714285714
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,WhatsApp,Regard,5.714285714
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Instagram,Recommends,4
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,WhatsApp,Recommends,4
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Facebook,Recommends,4
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,WhatsApp,Privacy,3
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Facebook,Privacy,2
+159,20~29,Male,Asian/Pacific Islander,8,12:00,737,39.93589783,-75.15339661,Instagram,Privacy,1
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Instagram,Regard,8.571428571
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,WhatsApp,Regard,8.571428571
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Instagram,Recommends,6
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Facebook,Recommends,6
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Facebook,Regard,5.714285714
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,WhatsApp,Recommends,5
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,WhatsApp,Privacy,6
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Facebook,Privacy,5
+160,50~59,Male,white,9,13:00,781,33.82049561,-116.4586029,Instagram,Privacy,5
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Facebook,Regard,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Instagram,Regard,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,WhatsApp,Regard,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Instagram,Recommends,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,WhatsApp,Recommends,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Facebook,Recommends,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Facebook,Privacy,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,WhatsApp,Privacy,10
+161,60+,Male,Black/African American,7,07:00,420,30.290802,-81.63300323,Instagram,Privacy,9
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Facebook,Regard,7.142857143
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Instagram,Recommends,6
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Instagram,Regard,5.714285714
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Facebook,Privacy,7
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Instagram,Privacy,5
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,WhatsApp,Privacy,5
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,WhatsApp,Regard,1.428571429
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,WhatsApp,Recommends,0
+162,30~39,Male,white,5,20:00,1215,40.10299683,-74.9414978,Facebook,Recommends,0
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,WhatsApp,Regard,5.714285714
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,WhatsApp,Privacy,5
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Instagram,Privacy,3
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Facebook,Privacy,1
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Facebook,Regard,2.857142857
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Instagram,Regard,2.857142857
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Instagram,Recommends,2
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,WhatsApp,Recommends,0
+163,30~39,Male,white,8,06:00,380,36.17590332,-86.80930328,Facebook,Recommends,0
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Facebook,Regard,10
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Instagram,Recommends,10
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,WhatsApp,Recommends,9
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Facebook,Recommends,9
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Instagram,Regard,8.571428571
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,WhatsApp,Regard,8.571428571
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Facebook,Privacy,9
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,Instagram,Privacy,9
+164,20~29,Male,white,8,08:00,481,42.88639832,-78.87809753,WhatsApp,Privacy,9
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Instagram,Recommends,9
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Facebook,Regard,8.571428571
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,WhatsApp,Recommends,5
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Instagram,Regard,4.285714286
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Facebook,Privacy,7
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Instagram,Privacy,5
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,WhatsApp,Privacy,0
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,WhatsApp,Regard,2.857142857
+165,30~39,Female,white,5,14:00,842,28.00979614,-81.93370056,Facebook,Recommends,0
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,WhatsApp,Privacy,5
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Instagram,Privacy,4
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Facebook,Privacy,2
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Facebook,Regard,1.428571429
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Instagram,Regard,1.428571429
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,WhatsApp,Regard,1.428571429
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Instagram,Recommends,0
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,WhatsApp,Recommends,0
+166,20~29,Male,white,5,11:00,700,27.43930054,-82.52140045,Facebook,Recommends,0
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Instagram,Recommends,9
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Facebook,Regard,8.571428571
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Instagram,Regard,5.714285714
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,WhatsApp,Regard,5.714285714
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Facebook,Recommends,5
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Facebook,Privacy,9
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,Instagram,Privacy,5
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,WhatsApp,Privacy,5
+167,30~39,Male,Black/African American,5,24:00,1440,36.13330078,-86.80370331,WhatsApp,Recommends,1
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Instagram,Recommends,9
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Facebook,Regard,8.571428571
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Instagram,Regard,7.142857143
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Facebook,Recommends,6
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,WhatsApp,Regard,5.714285714
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Instagram,Privacy,5
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,WhatsApp,Privacy,5
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,Facebook,Privacy,4
+168,40~49,Female,white,9,13:00,799,31.02909851,-97.85350037,WhatsApp,Recommends,3
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Facebook,Regard,10
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,WhatsApp,Regard,10
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Instagram,Recommends,10
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Facebook,Recommends,10
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,WhatsApp,Recommends,5
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Instagram,Regard,4.285714286
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Facebook,Privacy,9
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,Instagram,Privacy,8
+169,30~39,Male,Asian/Pacific Islander,8,14:00,857,41.2348938,-96.0490036,WhatsApp,Privacy,5
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Facebook,Regard,10
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Instagram,Regard,10
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,WhatsApp,Regard,10
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Facebook,Recommends,10
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Instagram,Recommends,9
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,WhatsApp,Recommends,8
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,WhatsApp,Privacy,10
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Facebook,Privacy,9
+170,20~29,Female,white,8,07:00,461,38.77009583,-77.63210297,Instagram,Privacy,8
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Facebook,Regard,10
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Instagram,Recommends,10
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Instagram,Regard,5.714285714
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,WhatsApp,Regard,5.714285714
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Facebook,Privacy,10
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Instagram,Privacy,0
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,WhatsApp,Privacy,0
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,WhatsApp,Recommends,0
+171,60+,Female,white,5,26:00,1526,30.52520752,-84.33209991,Facebook,Recommends,0
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Facebook,Regard,10
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Instagram,Regard,10
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,WhatsApp,Regard,8.571428571
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Facebook,Recommends,8
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,WhatsApp,Recommends,7
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Instagram,Recommends,6
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Facebook,Privacy,7
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,WhatsApp,Privacy,7
+172,20~29,Female,Black/African American,8,27:00,1612,10.31669617,-72.3167038,Instagram,Privacy,5
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Instagram,Recommends,9
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Facebook,Regard,8.571428571
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,WhatsApp,Recommends,5
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Facebook,Recommends,5
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Instagram,Regard,2.857142857
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,WhatsApp,Regard,2.857142857
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Instagram,Privacy,5
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,WhatsApp,Privacy,5
+173,20~29,Male,white,4,07:00,375,42.98750305,-82.46659851,Facebook,Privacy,3
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Facebook,Regard,5.714285714
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Instagram,Regard,2.857142857
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Instagram,Privacy,4
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Facebook,Privacy,2
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,WhatsApp,Privacy,0
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,WhatsApp,Recommends,2
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,WhatsApp,Regard,1.428571429
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Instagram,Recommends,1
+174,50~59,Female,white,7,08:00,462,28.62939453,-81.36190033,Facebook,Recommends,0
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Instagram,Regard,8.571428571
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,WhatsApp,Recommends,6
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Facebook,Regard,4.285714286
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,WhatsApp,Regard,2.857142857
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Facebook,Privacy,7
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Instagram,Privacy,6
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,WhatsApp,Privacy,5
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Instagram,Recommends,2
+175,30~39,Male,white,7,08:00,453,37.75100708,-97.8219986,Facebook,Recommends,0
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Facebook,Regard,10
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Instagram,Regard,10
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,WhatsApp,Regard,10
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Instagram,Recommends,8
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,WhatsApp,Recommends,8
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Facebook,Recommends,8
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Facebook,Privacy,8
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,Instagram,Privacy,8
+176,30~39,Male,white,9,06:00,379,34.19650269,-118.8188019,WhatsApp,Privacy,7
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Facebook,Recommends,9
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Instagram,Regard,8.571428571
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,WhatsApp,Regard,8.571428571
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Instagram,Recommends,7
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,WhatsApp,Recommends,7
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Facebook,Regard,2.857142857
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Instagram,Privacy,8
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,WhatsApp,Privacy,8
+177,30~39,Female,white,8,10:00,605,38.90420532,-77.03199768,Facebook,Privacy,7
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Instagram,Recommends,9
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,WhatsApp,Recommends,9
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Facebook,Regard,8.571428571
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Instagram,Regard,8.571428571
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Facebook,Privacy,6
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,WhatsApp,Privacy,5
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Instagram,Privacy,4
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,WhatsApp,Regard,1.428571429
+178,40~49,Male,white,7,12:00,735,34.12229919,-117.7142944,Facebook,Recommends,0
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,WhatsApp,Recommends,6
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Instagram,Regard,5.714285714
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Instagram,Recommends,5
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Facebook,Regard,4.285714286
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,WhatsApp,Regard,2.857142857
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Instagram,Privacy,4
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,WhatsApp,Privacy,1
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Facebook,Privacy,0
+179,30~39,Female,white,9,10:00,598,39.91229248,-75.15329742,Facebook,Recommends,0
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Instagram,Recommends,6
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Facebook,Recommends,5
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Facebook,Regard,2.857142857
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,WhatsApp,Regard,2.857142857
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,WhatsApp,Privacy,5
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Facebook,Privacy,4
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Instagram,Privacy,1
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,Instagram,Regard,1.428571429
+180,40~49,Male,white,8,11:00,689,32.26860046,-111.0021973,WhatsApp,Recommends,0
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Instagram,Regard,8.571428571
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,WhatsApp,Recommends,7
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Instagram,Recommends,6
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,WhatsApp,Regard,5.714285714
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Facebook,Regard,2.857142857
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Instagram,Privacy,7
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,WhatsApp,Privacy,5
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Facebook,Privacy,4
+181,20~29,Female,white,9,13:00,824,30.46769714,-84.13169861,Facebook,Recommends,0
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,WhatsApp,Regard,7.142857143
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Facebook,Recommends,7
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Facebook,Regard,5.714285714
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Instagram,Regard,5.714285714
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Instagram,Recommends,5
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,WhatsApp,Recommends,5
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,WhatsApp,Privacy,6
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Instagram,Privacy,4
+182,40~49,Male,white,8,24:00,1447,44.27600098,-88.3730011,Facebook,Privacy,3
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Instagram,Regard,5.714285714
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,WhatsApp,Regard,5.714285714
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Instagram,Recommends,5
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Facebook,Recommends,5
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Facebook,Regard,2.857142857
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,WhatsApp,Privacy,5
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Facebook,Privacy,0
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,Instagram,Privacy,0
+183,60+,Male,white,8,11:00,623,40.92720032,-74.30390167,WhatsApp,Recommends,0
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Instagram,Recommends,8
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Instagram,Regard,5.714285714
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,WhatsApp,Recommends,5
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Facebook,Regard,4.285714286
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,WhatsApp,Regard,2.857142857
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Facebook,Privacy,1
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Instagram,Privacy,1
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,WhatsApp,Privacy,0
+184,50~59,Female,white,4,15:00,883,44.45320129,-83.54090118,Facebook,Recommends,0
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Facebook,Regard,7.142857143
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Instagram,Regard,7.142857143
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,WhatsApp,Regard,4.285714286
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,WhatsApp,Recommends,4
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Instagram,Privacy,10
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,WhatsApp,Privacy,6
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Facebook,Privacy,2
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Instagram,Recommends,2
+185,30~39,Male,white,5,04:00,203,30.63110352,-88.2818985,Facebook,Recommends,2
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Instagram,Regard,7.142857143
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Instagram,Recommends,6
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Facebook,Regard,5.714285714
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,WhatsApp,Regard,5.714285714
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,WhatsApp,Recommends,3
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Instagram,Privacy,8
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Facebook,Privacy,2
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,WhatsApp,Privacy,0
+186,30~39,Male,white,5,04:00,264,39.73510742,-75.66840363,Facebook,Recommends,0
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,WhatsApp,Regard,10
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Facebook,Recommends,10
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Instagram,Regard,8.571428571
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,WhatsApp,Recommends,8
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Facebook,Regard,5.714285714
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Instagram,Recommends,3
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,WhatsApp,Privacy,9
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Facebook,Privacy,4
+187,20~29,Male,white,8,23:00,1363,25.78059387,-80.18260193,Instagram,Privacy,4
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,WhatsApp,Regard,5.714285714
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Instagram,Regard,4.285714286
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,WhatsApp,Recommends,4
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Facebook,Regard,2.857142857
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Instagram,Privacy,5
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,WhatsApp,Privacy,5
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Facebook,Privacy,3
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Instagram,Recommends,2
+188,20~29,Male,white,5,09:00,505,45.65109253,-111.1776962,Facebook,Recommends,0
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Facebook,Regard,10
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Instagram,Recommends,10
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,WhatsApp,Recommends,10
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Instagram,Regard,8.571428571
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,WhatsApp,Regard,5.714285714
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Facebook,Recommends,5
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Facebook,Privacy,9
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,Instagram,Privacy,8
+189,30~39,Female,white,5,06:00,349,43.01390076,-71.43520355,WhatsApp,Privacy,5
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Facebook,Regard,7.142857143
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,WhatsApp,Recommends,6
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Instagram,Regard,5.714285714
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,WhatsApp,Regard,5.714285714
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Instagram,Recommends,5
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Facebook,Recommends,5
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,WhatsApp,Privacy,5
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Instagram,Privacy,4
+190,20~29,Male,Asian/Pacific Islander,8,05:00,276,40.74969482,-73.85340118,Facebook,Privacy,1
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Instagram,Recommends,10
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Facebook,Regard,8.571428571
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Instagram,Regard,7.142857143
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,WhatsApp,Recommends,7
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Facebook,Recommends,5
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,WhatsApp,Regard,2.857142857
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Facebook,Privacy,8
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,Instagram,Privacy,5
+191,30~39,Male,white,4,11:00,650,29.06550598,-95.38279724,WhatsApp,Privacy,0
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Instagram,Recommends,5
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,WhatsApp,Recommends,5
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Instagram,Regard,2.857142857
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Facebook,Regard,1.428571429
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,WhatsApp,Regard,1.428571429
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Facebook,Privacy,2
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Instagram,Privacy,2
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,WhatsApp,Privacy,1
+192,30~39,No Answer,white,8,07:00,473,38.2631073,-90.56890106,Facebook,Recommends,0
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Facebook,Regard,10
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Instagram,Recommends,10
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Instagram,Regard,5.714285714
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,WhatsApp,Regard,5.714285714
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Facebook,Privacy,7
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Instagram,Privacy,0
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,WhatsApp,Privacy,0
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,WhatsApp,Recommends,0
+193,30~39,Female,white,8,15:00,845,39.7696991,-76.65630341,Facebook,Recommends,0
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Facebook,Regard,8.571428571
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Instagram,Recommends,7
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,WhatsApp,Recommends,5
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Instagram,Regard,2.857142857
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Facebook,Recommends,2
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,WhatsApp,Regard,1.428571429
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,WhatsApp,Privacy,6
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Facebook,Privacy,5
+194,30~39,Male,white,5,07:00,378,27.77879333,-82.68229675,Instagram,Privacy,5
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Instagram,Regard,8.571428571
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,WhatsApp,Recommends,8
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Facebook,Regard,4.285714286
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Instagram,Recommends,3
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,WhatsApp,Regard,2.857142857
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Instagram,Privacy,4
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Facebook,Privacy,3
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,WhatsApp,Privacy,0
+195,30~39,Male,Asian/Pacific Islander,8,08:00,470,40.74000549,-73.93609619,Facebook,Recommends,0
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Instagram,Recommends,6
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Facebook,Regard,4.285714286
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,WhatsApp,Recommends,4
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Instagram,Regard,1.428571429
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,WhatsApp,Regard,1.428571429
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Instagram,Privacy,2
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Facebook,Privacy,1
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,WhatsApp,Privacy,1
+196,40~49,Male,white,7,12:00,720,37.35400391,-76.74669647,Facebook,Recommends,0
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Facebook,Recommends,5
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Facebook,Regard,2.857142857
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Instagram,Regard,2.857142857
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,WhatsApp,Regard,2.857142857
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,WhatsApp,Privacy,5
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Facebook,Privacy,0
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Instagram,Privacy,0
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,Instagram,Recommends,1
+197,20~29,Female,white,7,09:00,540,42.65800476,-83.18430328,WhatsApp,Recommends,0
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Instagram,Regard,10
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Instagram,Recommends,10
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,WhatsApp,Recommends,10
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Facebook,Recommends,10
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Facebook,Regard,8.571428571
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,WhatsApp,Regard,8.571428571
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,WhatsApp,Privacy,9
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Facebook,Privacy,7
+198,20~29,Male,Hispanic/Latino,7,13:00,751,39.48849487,-88.35959625,Instagram,Privacy,7
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Facebook,Regard,10
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,WhatsApp,Recommends,9
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Instagram,Regard,8.571428571
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Facebook,Recommends,8
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,WhatsApp,Regard,7.142857143
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Instagram,Recommends,7
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Instagram,Privacy,8
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,Facebook,Privacy,7
+199,30~39,Male,white,10,24:00,1465,33.67480469,-111.9518967,WhatsApp,Privacy,7
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Facebook,Regard,10
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Instagram,Recommends,10
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Instagram,Regard,1.428571429
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,WhatsApp,Regard,1.428571429
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Facebook,Privacy,7
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Instagram,Privacy,3
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,WhatsApp,Privacy,0
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,WhatsApp,Recommends,0
+200,30~39,Female,Black/African American,5,10:00,579,34.3401947,-89.48329926,Facebook,Recommends,0
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Facebook,Regard,10
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Instagram,Recommends,10
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,WhatsApp,Recommends,9
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Instagram,Regard,8.571428571
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,WhatsApp,Regard,8.571428571
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Facebook,Recommends,5
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Instagram,Privacy,9
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,Facebook,Privacy,7
+201,20~29,Female,white,8,09:00,506,23.72900391,90.41119385,WhatsApp,Privacy,6
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Facebook,Regard,10
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Instagram,Recommends,10
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Instagram,Regard,5.714285714
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,WhatsApp,Regard,5.714285714
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,WhatsApp,Recommends,5
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Facebook,Privacy,8
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,WhatsApp,Privacy,5
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Instagram,Privacy,4
+202,30~39,Female,white,7,09:00,537,29.96800232,-90.02929688,Facebook,Recommends,0
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Instagram,Recommends,10
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Facebook,Regard,7.142857143
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Instagram,Regard,7.142857143
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Facebook,Recommends,5
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,WhatsApp,Recommends,2
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,WhatsApp,Regard,1.428571429
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Facebook,Privacy,7
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,Instagram,Privacy,6
+203,40~49,Female,white,8,05:00,319,42.72860718,-83.14759827,WhatsApp,Privacy,5
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,WhatsApp,Regard,10
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Instagram,Regard,8.571428571
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Facebook,Regard,7.142857143
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,WhatsApp,Recommends,6
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Facebook,Recommends,6
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,WhatsApp,Privacy,8
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Instagram,Privacy,3
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Facebook,Privacy,1
+204,20~29,Male,Black/African American,8,09:00,530,14.57530212,-60.97450256,Instagram,Recommends,1
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Facebook,Regard,8.571428571
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Instagram,Recommends,8
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,WhatsApp,Recommends,6
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Instagram,Regard,5.714285714
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,WhatsApp,Regard,5.714285714
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Facebook,Privacy,8
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,WhatsApp,Privacy,6
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Instagram,Privacy,5
+205,50~59,Female,Black/African American,9,13:00,773,28.21580505,-82.6595993,Facebook,Recommends,0
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Instagram,Regard,4.285714286
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Facebook,Regard,1.428571429
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,WhatsApp,Regard,1.428571429
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Instagram,Privacy,4
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Facebook,Privacy,1
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,WhatsApp,Privacy,0
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Instagram,Recommends,1
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,WhatsApp,Recommends,1
+206,30~39,Female,white,6,11:00,680,44.94290161,-123.0350952,Facebook,Recommends,0
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Facebook,Regard,10
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Instagram,Recommends,10
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Instagram,Regard,4.285714286
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,WhatsApp,Regard,2.857142857
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Facebook,Privacy,7
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,WhatsApp,Privacy,5
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Instagram,Privacy,3
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,WhatsApp,Recommends,0
+207,30~39,Female,white,7,11:00,689,41.15690613,-85.05560303,Facebook,Recommends,0
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Instagram,Recommends,9
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,WhatsApp,Recommends,8
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Facebook,Regard,7.142857143
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Instagram,Regard,4.285714286
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,WhatsApp,Regard,4.285714286
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Facebook,Recommends,4
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Facebook,Privacy,4
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,Instagram,Privacy,3
+208,40~49,Female,Black/African American,5,14:00,840,40.90829468,-73.83460236,WhatsApp,Privacy,3
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Instagram,Regard,7.142857143
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,WhatsApp,Recommends,6
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Facebook,Regard,2.857142857
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,WhatsApp,Regard,2.857142857
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Instagram,Privacy,1
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,WhatsApp,Privacy,1
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Facebook,Privacy,0
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Instagram,Recommends,0
+209,30~39,Female,Asian/Pacific Islander,7,11:00,692,38.68389893,-121.052597,Facebook,Recommends,0
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Facebook,Regard,1.428571429
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Instagram,Regard,1.428571429
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,WhatsApp,Regard,1.428571429
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Instagram,Privacy,5
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Instagram,Recommends,1
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,WhatsApp,Recommends,1
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,WhatsApp,Privacy,5
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Facebook,Privacy,1
+210,30~39,Female,Asian/Pacific Islander,8,11:00,652,43.01229858,-81.23069763,Facebook,Recommends,0
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,WhatsApp,Regard,5.714285714
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Instagram,Recommends,5
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Facebook,Regard,4.285714286
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Instagram,Regard,4.285714286
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,WhatsApp,Privacy,5
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Facebook,Privacy,4
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Instagram,Privacy,3
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,WhatsApp,Recommends,0
+211,30~39,Female,white,8,12:00,726,42.63420105,-72.6026001,Facebook,Recommends,0
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Instagram,Recommends,10
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,WhatsApp,Recommends,10
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Facebook,Regard,8.571428571
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Instagram,Regard,8.571428571
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Facebook,Recommends,7
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,WhatsApp,Regard,5.714285714
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,WhatsApp,Privacy,5
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Instagram,Privacy,4
+212,40~49,Female,white,6,12:00,732,32.90829468,-97.42829895,Facebook,Privacy,3
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Instagram,Recommends,9
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Facebook,Regard,8.571428571
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,WhatsApp,Recommends,8
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Instagram,Regard,7.142857143
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,WhatsApp,Regard,7.142857143
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Facebook,Recommends,6
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Facebook,Privacy,7
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,Instagram,Privacy,7
+213,20~29,Male,white,7,09:00,561,41.33869934,-72.69069672,WhatsApp,Privacy,7
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Facebook,Regard,10
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,WhatsApp,Regard,10
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Instagram,Recommends,10
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Facebook,Recommends,10
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Instagram,Regard,7.142857143
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,WhatsApp,Recommends,5
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,WhatsApp,Privacy,10
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Facebook,Privacy,8
+214,20~29,Female,Black/African American,8,13:00,803,30.61309814,-96.32170105,Instagram,Privacy,4
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,WhatsApp,Regard,10
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Facebook,Regard,8.571428571
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Instagram,Regard,8.571428571
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Instagram,Recommends,8
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Facebook,Recommends,7
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,WhatsApp,Recommends,4
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Instagram,Privacy,7
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,WhatsApp,Privacy,7
+215,30~39,Female,white,5,03:00,212,40.50990295,-85.62640381,Facebook,Privacy,6
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,WhatsApp,Recommends,6
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Facebook,Regard,5.714285714
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Instagram,Regard,5.714285714
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,WhatsApp,Regard,1.428571429
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Instagram,Recommends,1
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Instagram,Privacy,5
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Facebook,Privacy,4
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,WhatsApp,Privacy,0
+216,40~49,Female,Asian/Pacific Islander,8,10:00,617,32.23129272,-95.29579926,Facebook,Recommends,0
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Facebook,Recommends,9
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,WhatsApp,Regard,8.571428571
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Instagram,Recommends,8
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Instagram,Regard,7.142857143
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,WhatsApp,Recommends,7
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Facebook,Regard,5.714285714
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Instagram,Privacy,7
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,Facebook,Privacy,6
+217,30~39,Male,white,8,20:00,1177,33.9828949,-84.32420349,WhatsApp,Privacy,5
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Instagram,Regard,10
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Facebook,Regard,5.714285714
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Instagram,Recommends,5
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,WhatsApp,Recommends,5
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,WhatsApp,Regard,1.428571429
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Instagram,Privacy,4
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Facebook,Privacy,0
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,WhatsApp,Privacy,0
+218,50~59,Female,white,5,18:00,1081,40.25939941,-81.9641037,Facebook,Recommends,0
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Facebook,Regard,8.571428571
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Instagram,Regard,8.571428571
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Instagram,Recommends,8
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,WhatsApp,Recommends,8
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,WhatsApp,Regard,5.714285714
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Instagram,Privacy,7
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Facebook,Privacy,6
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,WhatsApp,Privacy,0
+219,30~39,Female,white,9,07:00,418,43.13110352,-88.33589935,Facebook,Recommends,0
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Facebook,Regard,5.714285714
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Instagram,Regard,5.714285714
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Instagram,Recommends,5
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,WhatsApp,Recommends,5
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,WhatsApp,Regard,2.857142857
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Instagram,Privacy,6
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Facebook,Privacy,5
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,WhatsApp,Privacy,0
+220,40~49,Female,white,3,14:00,887,39.90559387,-75.48739624,Facebook,Recommends,0
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Instagram,Regard,4.285714286
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,WhatsApp,Recommends,4
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Facebook,Regard,2.857142857
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,WhatsApp,Regard,2.857142857
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Instagram,Recommends,2
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Facebook,Recommends,2
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,WhatsApp,Privacy,2
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Facebook,Privacy,0
+221,20~29,Male,white,7,07:00,462,43.51899719,-96.73220062,Instagram,Privacy,0
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Instagram,Regard,7.142857143
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,WhatsApp,Recommends,7
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Instagram,Recommends,4
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Facebook,Regard,2.857142857
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,WhatsApp,Regard,1.428571429
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Facebook,Privacy,3
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Instagram,Privacy,3
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,WhatsApp,Privacy,1
+222,40~49,Female,white,5,06:00,389,38.34150696,-82.51799774,Facebook,Recommends,0
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,WhatsApp,Recommends,8
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Facebook,Regard,7.142857143
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Instagram,Regard,7.142857143
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Instagram,Recommends,6
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,WhatsApp,Regard,1.428571429
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Instagram,Privacy,9
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Facebook,Privacy,7
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,WhatsApp,Privacy,0
+223,50~59,Male,white,7,18:00,1076,32.85740662,-96.87059784,Facebook,Recommends,0
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,WhatsApp,Recommends,5
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Facebook,Recommends,5
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Instagram,Regard,4.285714286
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Facebook,Regard,2.857142857
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,WhatsApp,Regard,2.857142857
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Instagram,Recommends,2
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Instagram,Privacy,4
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,WhatsApp,Privacy,4
+224,40~49,Male,Asian/Pacific Islander,10,08:00,510,39.27679443,-76.90149689,Facebook,Privacy,1
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Facebook,Regard,10
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Instagram,Regard,10
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,WhatsApp,Regard,10
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Instagram,Recommends,10
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Facebook,Recommends,10
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,WhatsApp,Recommends,7
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,WhatsApp,Privacy,8
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Facebook,Privacy,7
+225,20~29,Male,white,8,09:00,571,32.81480408,-96.87049866,Instagram,Privacy,3
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Facebook,Regard,7.142857143
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Instagram,Regard,7.142857143
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,WhatsApp,Recommends,6
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Instagram,Recommends,3
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,WhatsApp,Regard,1.428571429
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Facebook,Privacy,4
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Instagram,Privacy,4
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,WhatsApp,Privacy,0
+226,50~59,Male,white,5,08:00,473,37.76620483,-87.25910187,Facebook,Recommends,0
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Instagram,Regard,7.142857143
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,WhatsApp,Recommends,5
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Facebook,Regard,2.857142857
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,WhatsApp,Regard,1.428571429
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Instagram,Recommends,1
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Instagram,Privacy,5
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Facebook,Privacy,3
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,WhatsApp,Privacy,0
+227,40~49,Male,white,9,08:00,460,44.68490601,-92.88490295,Facebook,Recommends,0
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Facebook,Regard,10
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Instagram,Regard,10
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Instagram,Recommends,10
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,WhatsApp,Recommends,10
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Facebook,Recommends,5
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,WhatsApp,Regard,1.428571429
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Instagram,Privacy,8
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,Facebook,Privacy,7
+228,30~39,Female,white,9,07:00,396,37.34950256,-122.1163025,WhatsApp,Privacy,5
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Facebook,Regard,10
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Instagram,Recommends,6
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,WhatsApp,Regard,5.714285714
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Instagram,Regard,1.428571429
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Facebook,Privacy,5
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Instagram,Privacy,1
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,WhatsApp,Privacy,0
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,WhatsApp,Recommends,0
+229,20~29,Male,white,5,04:00,264,36.79679871,-76.17669678,Facebook,Recommends,0
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Instagram,Regard,8.571428571
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,WhatsApp,Recommends,8
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Facebook,Regard,7.142857143
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,WhatsApp,Regard,2.857142857
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Instagram,Recommends,2
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Facebook,Recommends,1
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Instagram,Privacy,7
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,Facebook,Privacy,3
+230,30~39,Male,white,8,10:00,607,42.65409851,-71.92199707,WhatsApp,Privacy,3
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,WhatsApp,Regard,5.714285714
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Instagram,Recommends,5
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Facebook,Regard,4.285714286
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Instagram,Regard,4.285714286
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,WhatsApp,Recommends,3
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Facebook,Recommends,1
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Facebook,Privacy,9
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,Instagram,Privacy,8
+231,30~39,Male,Black/African American,8,05:00,289,41.6934967,-87.61450195,WhatsApp,Privacy,2
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Instagram,Regard,7.142857143
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Facebook,Regard,5.714285714
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,WhatsApp,Recommends,3
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,WhatsApp,Regard,1.428571429
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Instagram,Privacy,2
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Facebook,Privacy,0
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,WhatsApp,Privacy,0
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Instagram,Recommends,0
+232,30~39,Female,white,6,10:00,574,37.68119812,-122.1344986,Facebook,Recommends,0
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Instagram,Regard,8.571428571
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,WhatsApp,Recommends,7
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Facebook,Regard,5.714285714
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Instagram,Recommends,5
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Facebook,Recommends,5
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,WhatsApp,Regard,1.428571429
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Instagram,Privacy,7
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,WhatsApp,Privacy,5
+233,20~29,Female,white,8,09:00,547,40.31489563,-86.89080048,Facebook,Privacy,0
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Instagram,Recommends,9
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Facebook,Regard,7.142857143
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Facebook,Recommends,2
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Instagram,Regard,1.428571429
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,WhatsApp,Regard,1.428571429
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,WhatsApp,Recommends,1
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Instagram,Privacy,7
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,WhatsApp,Privacy,5
+234,40~49,Female,Black/African American,8,11:00,654,37.50230408,-77.56929779,Facebook,Privacy,2
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,WhatsApp,Recommends,10
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Facebook,Recommends,10
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Instagram,Recommends,9
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Facebook,Regard,8.571428571
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Instagram,Regard,8.571428571
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,WhatsApp,Regard,8.571428571
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Facebook,Privacy,9
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,Instagram,Privacy,9
+235,30~39,Male,Black/African American,9,04:00,3857,40.72140503,-74.00520325,WhatsApp,Privacy,9
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Facebook,Regard,8.571428571
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,WhatsApp,Regard,8.571428571
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Facebook,Recommends,8
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Instagram,Recommends,7
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,WhatsApp,Recommends,2
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Instagram,Regard,1.428571429
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Facebook,Privacy,7
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,Instagram,Privacy,2
+236,30~39,Male,Hispanic/Latino,4,07:00,387,33.9230957,-118.1396027,WhatsApp,Privacy,2
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Instagram,Regard,10
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,WhatsApp,Recommends,8
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,WhatsApp,Regard,5.714285714
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Instagram,Recommends,5
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Facebook,Regard,4.285714286
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Facebook,Privacy,0
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Instagram,Privacy,0
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,WhatsApp,Privacy,0
+237,<20,Male,white,5,08:00,511,39.99299622,-82.99849701,Facebook,Recommends,0
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,WhatsApp,Regard,7.142857143
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Facebook,Recommends,7
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Facebook,Regard,5.714285714
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Instagram,Recommends,5
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Instagram,Regard,1.428571429
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,WhatsApp,Privacy,6
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Facebook,Privacy,2
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,Instagram,Privacy,2
+238,30~39,Male,Asian/Pacific Islander,8,08:00,516,40.76370239,-73.77249908,WhatsApp,Recommends,0
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,WhatsApp,Regard,8.571428571
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Facebook,Regard,7.142857143
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Facebook,Recommends,7
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Instagram,Regard,5.714285714
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Instagram,Recommends,5
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,WhatsApp,Recommends,2
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Instagram,Privacy,7
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,WhatsApp,Privacy,6
+239,20~29,Male,Hispanic/Latino,9,15:00,900,44.90159607,-122.9223022,Facebook,Privacy,1
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Instagram,Regard,10
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,WhatsApp,Regard,10
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Facebook,Recommends,10
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,WhatsApp,Recommends,9
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Facebook,Regard,8.571428571
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Instagram,Recommends,7
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,WhatsApp,Privacy,10
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Instagram,Privacy,9
+240,20~29,Male,white,8,04:00,269,38.77009583,-77.63210297,Facebook,Privacy,5
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Instagram,Recommends,9
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Facebook,Regard,7.142857143
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Instagram,Regard,7.142857143
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,WhatsApp,Recommends,6
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,WhatsApp,Regard,1.428571429
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Instagram,Privacy,9
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,WhatsApp,Privacy,3
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Facebook,Privacy,2
+241,30~39,Male,white,7,06:00,369,36.11129761,-115.2790985,Facebook,Recommends,0
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Instagram,Regard,7.142857143
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,WhatsApp,Regard,5.714285714
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,WhatsApp,Recommends,3
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Facebook,Regard,2.857142857
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Instagram,Recommends,1
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,WhatsApp,Privacy,5
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Facebook,Privacy,3
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Instagram,Privacy,3
+242,30~39,Male,white,7,20:00,1237,34.22810364,-84.1780014,Facebook,Recommends,0
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Instagram,Recommends,9
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Facebook,Regard,8.571428571
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Instagram,Regard,7.142857143
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,WhatsApp,Regard,5.714285714
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,WhatsApp,Recommends,4
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Facebook,Privacy,5
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Instagram,Privacy,5
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,WhatsApp,Privacy,0
+243,40~49,Male,white,8,08:00,519,40.3117981,-88.146698,Facebook,Recommends,0
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,WhatsApp,Recommends,10
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Instagram,Regard,8.571428571
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Instagram,Recommends,6
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Facebook,Regard,5.714285714
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,WhatsApp,Regard,5.714285714
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Facebook,Recommends,5
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Facebook,Privacy,8
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,Instagram,Privacy,7
+244,40~49,Female,white,8,07:00,14793,40.75059509,-73.82039642,WhatsApp,Privacy,5
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,3,2,1,6,10:00,574,37.68119812,-122.1344986,WhatsApp,Recommends,
+233,2,2,1,8,09:00,547,40.31489563,-86.89080048,WhatsApp,Recommends,
+234,4,2,3,8,11:00,654,37.50230408,-77.56929779,WhatsApp,Recommends,
+235,3,1,3,9,04:00,3857,40.72140503,-74.00520325,WhatsApp,Recommends,
+236,3,1,2,4,07:00,387,33.9230957,-118.1396027,WhatsApp,Recommends,
+237,1,1,1,5,08:00,511,39.99299622,-82.99849701,WhatsApp,Recommends,
+238,3,1,5,8,08:00,516,40.76370239,-73.77249908,WhatsApp,Recommends,
+239,2,1,2,9,15:00,900,44.90159607,-122.9223022,WhatsApp,Recommends,
+240,2,1,1,8,04:00,269,38.77009583,-77.63210297,WhatsApp,Recommends,
+241,3,1,1,7,06:00,369,36.11129761,-115.2790985,WhatsApp,Recommends,
+242,3,1,1,7,20:00,1237,34.22810364,-84.1780014,WhatsApp,Recommends,
+243,4,1,1,8,08:00,519,40.3117981,-88.146698,WhatsApp,Recommends,
+244,4,2,1,8,07:00,14793,40.75059509,-73.82039642,WhatsApp,Recommends,
